@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets (SMTP credentials, etc.)
+.env
+.env.local
+.env.*.local
+
+# Generated certificate outputs (regenerate with generate-certificates.js)
+events/*/certificates/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

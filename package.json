@@ -1,0 +1,17 @@
+{
+  "name": "certificate-email-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate:etcode3:participants": "node src/generate-certificates.js --event=ETCODE3 --type=participants",
+    "generate:etcode3:organizers": "node src/generate-certificates.js --event=ETCODE3 --type=organizers",
+    "send:etcode3:participants": "node src/send-certificates.js --event=ETCODE3 --type=participants",
+    "send:etcode3:organizers": "node src/send-certificates.js --event=ETCODE3 --type=organizers"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "googleapis": "^144.0.0",
+    "nodemailer": "^6.9.3"
+  }
+}

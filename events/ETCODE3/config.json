@@ -1,0 +1,22 @@
+{
+  "name": "ETCode 3",
+  "subjects": {
+    "participants": "Certificate of Participation - ETCode 3",
+    "organizers": "Thank You - ETCode 3 Organizer"
+  },
+  "certificate": {
+    "participants": {
+      "fontPath": "Formula1-Regular_web_0.ttf",
+      "xOffset": 0,
+      "yOffset": -85,
+      "fontSize": 70
+    },
+    "organizers": {
+      "fontPath": "Formula1-Regular_web_0.ttf",
+      "xOffset": 0,
+      "yOffset": -70,
+      "fontSize": 80
+    }
+  }
+}
+

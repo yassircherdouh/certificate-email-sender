@@ -1,0 +1,35 @@
+{
+  "name": "BitCamp4",
+  "fromName": "BitCamp4 - ETC",
+  "subjects": {
+    "participants": "Certificate of Participation - BitCamp4",
+    "contributors": "Thank You - BitCamp4 Contributor",
+    "mentors": "Thank You - BitCamp4 Mentor"
+  },
+  "certificate": {
+    "participants": {
+      "fontPath": "Satoshi-Regular.otf",
+      "xOffset": 10,
+      "yOffset": -10,
+      "fontSize": 100
+    },
+    "contributors": {
+      "fontPath": "Satoshi-Regular.otf",
+      "xOffset": 10,
+      "yOffset": -10,
+      "fontSize": 100
+    },
+    "mentors": {
+      "fontPath": "Satoshi-Regular.otf",
+      "xOffset": 10,
+      "yOffset": -10,
+      "fontSize": 100
+    },
+    "speakers": {
+      "fontPath": "Satoshi-Regular.otf",
+      "xOffset": 10,
+      "yOffset": -10,
+      "fontSize": 100
+    }
+  }
+}
