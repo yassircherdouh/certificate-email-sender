@@ -1,3 +1,24 @@
 [
-    { "name": "Contributor Name", "email": "contributor@example.com" }
+    { "name": "Ahmed Elamine Mouchaal", "email": "ahmed.elamine.mouchaal@ensia.edu.dz" },
+    { "name": "Moulay Mohamed Bouabdelli", "email": "moulay.mohamed.bouabd.elli@ensia.edu.dz" },
+    { "name": "Mustapha Belkebir", "email": "mustapha.belkebir@ensia.edu.dz" },
+    { "name": "Fatima Zohra Doua Bourzak", "email": "fatima.zohra.doua.bourzak@ensia.edu.dz" },
+    { "name": "Kaouther Bensaddek", "email": "kaouther.bensaddek@ensia.edu.dz" },
+    { "name": "Maissa Briber", "email": "maissa.briber@ensia.edu.dz" },
+    { "name": "Rym Rouikha", "email": "rym.rouikha@ensia.edu.dz" },
+    { "name": "Mounir Boudjelal", "email": "mounir.boudjelal@ensia.edu.dz" },
+    { "name": "Ayat-Errahmane Nacer", "email": "ayaterrahmane.nacer@ensia.edu.dz" },
+    { "name": "Hind Benmouffok", "email": "hind.benmouffok@ensia.edu.dz" },
+    { "name": "Sirine Atoum", "email": "sirine.atoum@ensia.edu.dz" },
+    { "name": "Arslene Djellouli", "email": "rabah.arslene.djellouli@ensia.edu.dz" },
+    { "name": "Youcef Guergour", "email": "youcef.guergour@ensia.edu.dz" },
+    { "name": "Lyes Hadjar", "email": "lyes.hadjar@ensia.edu.dz" },
+    { "name": "Redhaoune Lazib", "email": "redhouane.lazib@ensia.edu.dz" },
+    { "name": "Soundes Gasmi", "email": "soundes.gasmi@ensia.edu.dz" },
+    { "name": "Manel Debab", "email": "manel-bouchra.debab@ensia.edu.dz" },
+    { "name": "Yasser Benahmed", "email": "yasser.benahmed@ensia.edu.dz" },
+    { "name": "Narimene Hamgani", "email": "narimene.hamgani@ensia.edu.dz" },
+    { "name": "Amine Ferhaoui", "email": "amina.ferhaoui@ensia.edu.dz" },
+    { "name": "Hadjer Benhamou", "email": "hadjer.benhamou@ensia.edu.dz" },
+    { "name": "Yassir CHERDOUH", "email": "yassir.cherdouh@ensia.edu.dz" }
 ]

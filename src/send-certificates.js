@@ -38,6 +38,10 @@ function sanitizeFilename(name) {
   return name.replace(/[/\\?%*:|"<>]/g, "_");
 }
 
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function main() {
   const { event, type, format: argFormat } = parseArgs();
 
@@ -145,6 +149,10 @@ async function main() {
         error.message
       );
     }
+
+    // Throttle to avoid rate limits / suspension (e.g. 1s between each send)
+    const delayMs = Number(process.env.SEND_DELAY_MS) || 1000;
+    if (index < list.length - 1) await delay(delayMs);
   }
 }
 
